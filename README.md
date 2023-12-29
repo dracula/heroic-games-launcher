@@ -1,12 +1,12 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Heroic Games Launcher](https://heroicgameslauncher.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Heroic Games Launcher](https://heroicgameslauncher.com).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/heroic-games-launcher](https://draculatheme.com/foobar).
 
 ## Team
 
