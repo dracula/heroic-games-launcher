@@ -8,6 +8,6 @@ Activating theme
 #### Activating theme
 
 1. Navigate to your settings in the app
-2. In general navigate to Select Theme
+2. In general go to Select Theme
 3. From the Predefined Themes, choose Dracula.
 4. Boom, Dracula theme 🧛🏻‍♂️!
