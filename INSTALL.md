@@ -3,7 +3,6 @@
 #### Install
 
 Dracula Theme is already present in Heroic Games Launcher. So, you don't need to install anything!
-Activating theme
 
 #### Activating theme
 
