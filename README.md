@@ -10,7 +10,11 @@ All instructions can be found at [draculatheme.com/heroic-games-launcher](https:
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/slack/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/heroic-games-launcher/graphs/contributors).
+
+| [![ANYAYASS](https://github.com/ANYAYASS.png?size=100)](https://github.com/ANYAYASS) |
+| ------------------------------------------------------------------------------------ |
+| [ANYAYASS](https://github.com/ANYAYASS)                                              |
 
 ## Community
 
